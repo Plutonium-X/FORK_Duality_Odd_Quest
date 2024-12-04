@@ -1,5 +1,5 @@
 
-![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/Duality_Odd_Quest_Mod?include_prereleases&color=darkred)<a name="top" id="top"> </a>
+![Latest Release](https://img.shields.io/github/v/release/Plutonium_X/FIGHT_Duality_Odd_Quest?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
 ![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20German%20%7C%20Italian%20%7C%20Russian&color=limegreen)
 
