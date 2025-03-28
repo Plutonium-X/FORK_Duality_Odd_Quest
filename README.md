@@ -1,7 +1,7 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/Plutonium-X/FIGHT_Duality_Odd_Quest?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20German%20%7C%20Italian%20%7C%20Russian&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20German%20%7C%20Italian%20%7C%20Russian%20%7C%20French&color=limegreen)
 
 <div align="center"><h1></a>Duality's Odd Quest Mod (or simply Imnesvale) 2.3 en français</h1>
 
